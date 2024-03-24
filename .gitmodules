@@ -1,0 +1,6 @@
+[submodule "sim"]
+	path = sim
+	url = https://github.com/FPGASystemsLab/dev_sd.sim.git
+[submodule "doc"]
+	path = doc
+	url = https://github.com/FPGASystemsLab/dev_sd.doc.git
