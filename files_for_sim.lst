@@ -1,0 +1,14 @@
+dev_sd_box.v
+dev_sd_box_pure.v
+sd_clk_mux.v
+sd_cmdi_48b_formater.v
+sd_cmd_136b_parser.v
+sd_crc7.v
+sd_crc_16.v
+sd_data_form.v
+sd_data_out_buff.v
+sd_data_rec.v
+sd_data_state.v
+sd_rbus_if.v
+sd_reg_bank.v
+sd_ring_mux.v
